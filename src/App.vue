@@ -10,7 +10,7 @@
       <br /><br />
       <audio :src="url" controls></audio>
       <p v-if="lyric">{{lyric}}</p>
-    </v-container><v-footer></v-footer>
+    </v-container>
   </v-app>
 </template>
 
